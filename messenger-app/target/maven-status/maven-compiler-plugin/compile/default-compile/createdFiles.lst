@@ -1,1 +1,12 @@
+com/messenger/repositories/UserRepository.class
+com/messenger/controllers/ChatController.class
+com/messenger/services/ChatService.class
+com/messenger/models/Message.class
+com/messenger/models/Media.class
+com/messenger/services/NotificationService.class
+com/messenger/repositories/MediaRepository.class
+com/messenger/models/User.class
 com/messenger/App.class
+com/messenger/services/EncryptionService.class
+com/messenger/repositories/MessageRepository.class
+com/messenger/db/DatabaseManager.class

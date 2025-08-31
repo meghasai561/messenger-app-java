@@ -4,6 +4,9 @@
 /workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/models/Media.java
 /workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/models/Message.java
 /workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/models/User.java
+/workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/repositories/MediaRepository.java
+/workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/repositories/MessageRepository.java
+/workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/repositories/UserRepository.java
 /workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/services/ChatService.java
 /workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/services/EncryptionService.java
 /workspaces/messenger-app-java/messenger-app/src/main/java/com/messenger/services/NotificationService.java
