@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DatabaseManager {
-    private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/messenger_db";
+    private static final String DATABASE_URL = "jdbc:mysql://mysql:3306/messenger_db";
     private static final String DATABASE_USER = "root";
     private static final String DATABASE_PASSWORD = "password";
 

@@ -1,8 +1,11 @@
 package com.messenger.services;
 
+import org.springframework.stereotype.Service;
+
 import java.util.ArrayList;
 import java.util.List;
 
+@Service
 public class NotificationService {
 
     private List<String> notifications;
@@ -23,5 +26,10 @@ public class NotificationService {
 
     public void clearNotifications() {
         notifications.clear();
+    }
+
+    public void notifyUser(String username, String message) {
+        // In production, integrate with push notification service
+        System.out.println("Notify " + username + ": " + message);
     }
 }
